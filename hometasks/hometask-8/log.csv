@@ -1,0 +1,190 @@
+
+01:44:24; User klick; 2
+21:44:01; User klick; 1
+21:44:01; Vew db; db_name
+22:02:49; User klick; 1
+22:02:49; Vew db; db_name
+22:03:31; User klick; 1
+22:03:31; Vew db; db_name
+22:04:01; User klick; 7
+22:04:01; Programm close; 
+22:18:43; User klick; 2
+22:19:10; User klick; 2
+22:21:17; User klick; 2
+22:21:35; Create new name; 
+22:21:43; User klick; 2
+22:22:00; Create new name; 
+22:22:06; User klick; 1
+22:22:06; Vew db; db_name
+22:22:10; User klick; 1
+22:22:10; Vew db; db_name
+22:22:31; User klick; 7
+22:22:31; Programm close; 
+22:25:34; User klick; 2
+22:25:55; Create new name in; pupils.db
+22:25:58; User klick; 1
+22:25:58; User watch: ; pupils.db
+22:26:10; User klick; 7
+22:26:10; Programm close; 
+22:48:10; User klick; 2
+22:48:29; Create new name in; pupils.db
+22:48:34; User klick; 3
+22:49:44; User klick; 3
+22:50:06; Delete a record 6 from the database; pupils.db
+22:50:13; User klick; 1
+22:50:13; User watch: ; pupils.db
+22:50:21; User klick; 7
+22:50:21; Programm close; 
+23:47:14; User klick; 1
+23:47:24; User watch: ; pupils.db
+23:47:34; Exit previous menu; 
+23:47:39; User klick; 4
+23:47:39; Programm close; 
+22:41:41; User klick; 1
+22:41:59; User watch: ; pupils.db
+22:42:08; Exit previous menu; 
+22:42:11; User klick; 4
+22:42:11; Programm close; 
+23:12:22; User klick; 1
+23:12:48; User klick; 2
+23:12:51; User watch: ; pupils.db
+23:13:09; Delete a record 9 from the database; pupils.db
+23:13:11; User watch: ; pupils.db
+23:13:19; Exit previous menu; 
+23:13:20; User klick; 4
+23:13:20; Programm close; 
+23:14:32; User klick; 2
+23:18:26; Create new db ; estimatesþâè
+23:23:43; User klick; 2
+23:25:49; Create new db ; estimate.db
+23:28:00; Create new name in; estimate.db
+23:28:37; Create new name in; estimate.db
+23:28:57; Create new name in; estimate.db
+23:29:18; Create new name in; estimate.db
+23:29:43; Create new name in; estimate.db
+23:30:16; Create new name in; estimate.db
+23:30:49; Create new name in; estimate.db
+23:30:59; Exit previous menu; 
+23:31:08; User klick; 2
+23:31:10; User watch: ; estimate.db
+23:31:32; Exit previous menu; 
+23:31:44; User klick; 3
+23:31:51; User klick; 4
+23:31:51; Programm close; 
+23:41:48; User klick; 2
+23:42:23; Create new name in; pupils.db
+23:42:29; User watch: ; pupils.db
+23:42:34; Exit previous menu; 
+23:42:36; User klick; 4
+23:42:36; Programm close; 
+18:44:41; User klick; 1
+18:45:51; User klick; 2
+18:46:02; User watch: ; pupils.db
+18:46:39; Exit previous menu; 
+18:46:43; User klick; 4
+18:46:43; Programm close; 
+18:49:07; User klick; 1
+18:49:23; User klick; 2
+18:49:27; User watch: ; estimate.db
+18:53:09; Create new db ; temp
+18:53:22; User watch: ; temp
+18:53:34; Create new name in; temp
+18:53:44; Create new name in; temp
+18:53:54; Create new name in; temp
+18:54:00; Exit previous menu; 
+18:54:05; User klick; 2
+18:54:07; User watch: ; temp
+18:54:20; Exit previous menu; 
+18:54:22; User klick; 4
+18:54:22; Programm close; 
+20:51:50; User klick; 2
+20:52:29; User select table: ; PUPILS
+20:52:33; User watch: ; PUPILS
+20:52:48; Exit previous menu; 
+20:52:50; User klick; 4
+20:52:50; Programm close; 
+21:06:24; User klick; 2
+21:06:49; Create new db ; newnewnew.db
+21:07:11; User select table: ; 1
+19:25:05; User klick; 2
+19:28:33; User klick; 2
+19:30:00; User klick; 2
+19:30:33; User select table: ; PUPILS
+19:31:00; Exit previous menu; 
+19:31:06; User klick; 1
+19:31:27; User klick; 2
+19:31:53; User select table: ; ESTIMATE
+19:31:57; User watch: ; ESTIMATE
+19:32:23; Exit previous menu; 
+19:32:29; User klick; 1
+19:33:25; User klick; 2
+19:37:45; User klick; 2
+21:25:29; User klick; 3
+21:25:34; User klick; 1
+21:28:03; User klick; 3
+21:28:08; User klick; 1
+21:36:04; User klick; 4
+21:46:35; User klick; 3
+21:50:15; User klick; 3
+21:50:19; User print report: ; "SELECT * FROM users;"
+21:50:46; User klick; 3
+21:50:51; User print report: ; SELECT * FROM pupils;
+21:52:31; User klick; & C:/Users/Name/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/pythonLessons/DZ_08/db_tools.py
+21:59:46; User klick; 1
+21:59:46; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
+22:19:54; User klick; 4
+22:19:54; Exit previous menu; 
+22:23:46; User klick; 3
+22:24:07; User print report: ; SELECT * FROM pupils;
+22:24:25; User klick; 1
+22:24:25; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
+22:24:32; User klick; 4
+22:24:32; Exit previous menu; 
+22:26:14; User klick; 1
+22:26:32; User klick; 2
+22:27:05; Exit previous menu; 
+22:27:07; User klick; 3
+22:27:21; User klick; 4
+22:27:21; Exit previous menu; 
+22:27:24; User klick; 3
+22:27:34; User klick; 1
+22:27:34; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
+22:28:18; User klick; 4
+22:28:18; Exit previous menu; 
+22:28:20; User klick; 4
+22:28:20; Programm close; 
+22:37:17; User klick; 4
+22:37:17; Exit previous menu; 
+22:39:15; User klick; 2
+22:39:15; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
+22:57:06; User klick; 3
+22:57:14; User klick; 2
+22:57:14; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
+22:57:22; User klick; 4
+22:57:22; Exit previous menu; 
+22:57:25; User klick; 4
+22:57:25; Programm close; 
+23:00:13; User klick; 3
+23:00:19; User klick; 2
+23:00:19; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
+23:00:30; User klick; 3
+23:01:06; User print report: ; SELECT * FROM estimate
+23:01:12; User klick; 1
+23:01:12; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
+23:01:18; User klick; 4
+23:01:18; Exit previous menu; 
+23:01:21; User klick; 2
+23:03:04; User klick; 2
+23:03:56; User klick; 2
+23:04:12; User select table: ; ESTIMATE
+23:04:32; User select table: ; PUPILS
+23:04:41; Exit previous menu; 
+23:04:44; User klick; 3
+23:04:47; User klick; 2
+23:04:47; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
+23:04:50; User klick; 1
+23:04:50; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
+23:20:56; User klick; 1
+23:21:11; User klick; 3
+23:21:13; User klick; 1
+23:21:13; User print report: ; SELECT name,  MATHEMATICS, RUSSIAN, HISTORY FROM PUPILS, ESTIMATE  WHERE pupil_id = PUPILS.id
